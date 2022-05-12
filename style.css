@@ -1,0 +1,19 @@
+
+html, body {
+  height: 100%;
+}
+
+.full-height {
+  height: 100%;
+}
+
+.box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.box div {
+  width: 100px;
+  height: 100px;
+}
